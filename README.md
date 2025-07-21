@@ -1,2 +1,2 @@
 # osi-and-tcp
-https://github.com/onzl-c/osi-and-tcp/issues/1#issue-3248430886
+![OSI and TCP 이미지](./osi%20and%20tcp.png)
